@@ -99,6 +99,8 @@ In particular, **the low Braille literacy rate limits their communication and so
 | **Juhyung Kim (김주형)** | [@kjh46](https://github.com/kjh46) | Hardware & Software Development |  
 | **Taehee Ko (고태희)** | [@teammate1](https://github.com/teammate1) | System Design & Implementation |  
 | **Kyunghyun Kim (김경현)** | [@teammate2](https://github.com/teammate2) | UI/UX Design & Web Development |  
+| **Chaekyung Seok (석채경)** | N/A | Device Design |  
+| **Hyein Kim (김혜인)** | N/A | UI/UX Design |  
 
 ---
 
