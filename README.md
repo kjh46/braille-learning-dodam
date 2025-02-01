@@ -76,9 +76,7 @@ In particular, **the low Braille literacy rate limits their communication and so
 ## 🎨 Product Images  
 | **Physical Device** | **Web Learning Interface** |  
 |-----------------|-----------------|  
-| ![image](https://github.com/user-attachments/assets/1275b64e-eebe-4594-b049-6b6cd42e43d0)
- | ![image](https://github.com/user-attachments/assets/da3384bc-4bc1-4bac-b7a1-e5ad3e472342)
- |  
+| ![image](https://github.com/user-attachments/assets/1275b64e-eebe-4594-b049-6b6cd42e43d0)| ![image](https://github.com/user-attachments/assets/da3384bc-4bc1-4bac-b7a1-e5ad3e472342)|  
 
 ---
 
