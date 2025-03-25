@@ -57,7 +57,7 @@ In particular, **the low Braille literacy rate limits their communication and so
 | **Component** | **Quantity** | **Function** |  
 |--------------|------------|-------------|  
 | Braille Solenoids | 12 | Provides tactile Braille feedback |  
-| Hangul Solenoids | 64 | Generates tactile Hangul characters |  
+| Hangul(Korean) Solenoids | 64 | Generates tactile Hangul(Korean) characters |  
 | Braille Module Boards | 13 | Handles Braille input system |  
 | Power Supply (SMPS) | 1 | Supplies power to the entire system |  
 
@@ -105,8 +105,8 @@ In particular, **the low Braille literacy rate limits their communication and so
 ---
 
 ## 📬 Contact & Resources  
-📧 Email: [dddddrla@naver.com]  
-🔗 **Google Drive Link:** [View Project Files](https://drive.google.com/drive/folders/1LA7CYp5MCn1JehssDcKyJpsXnDxoUOOa?usp=sharing)  
+📧 Email: [dddddrla1@gmail.com]  
+🔗 **Google Drive Link:** [View Project Files](https://drive.google.com/drive/folders/1RAo8iRqSzwa17MASdGWsiKsuvZGX8nxG?usp=drive_link)  
 
 ---
 
