@@ -112,3 +112,12 @@ In particular, **the low Braille literacy rate limits their communication and so
 
 ## 🚀 **Revolutionizing Braille & Korean Learning with Dodam!**  
 > "Making Braille & Korean learning more accessible and engaging for the visually impaired."
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it.
+
+---
+
